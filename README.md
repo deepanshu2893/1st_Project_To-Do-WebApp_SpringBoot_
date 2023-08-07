@@ -1,7 +1,14 @@
 # Overview
 This is a To - Do Web Application which allows users to organize their todos. Users can add, update, delete, set date/time to thier todo. The App is connected to My SQL Database which allows users to access their todos even if the App is restarted.
 
-# How to Run the Application?
+## Tools used
+1. IDE - Intellij IDEA
+2. Backend Framework - SpringBoot (Initialized using Spring Initializer)
+3. FrontEnd Framework - NA
+4. API Platform - Postman
+5. Browser - Firefox (Chrome can also be used)
+
+## How to Run the Application?
 1. Install at least Java 20. 
 2. Install Docker.
 3. Install My SQL. 
