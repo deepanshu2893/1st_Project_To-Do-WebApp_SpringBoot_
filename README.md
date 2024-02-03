@@ -4,7 +4,7 @@ This is a To - Do Web Application which allows users to organize their todos. Us
 ## Tools used
 1. IDE - Intellij IDEA
 2. Backend Framework - SpringBoot (Initialized using Spring Initializer)
-3. FrontEnd Framework - NA
+3. FrontEnd Framework - JSP
 4. API Platform - Postman
 5. Browser - Firefox (Chrome can also be used)
 
